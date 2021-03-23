@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 6e1a4ed5f0a9db5449c69da0377a90dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 126430541892893836
+    second: Irvin_LEDGE_Hold_0
+  - first:
+      213: 3999870869935713517
+    second: Irvin_LEDGE_Hold_1
+  - first:
+      213: -3115624949644933301
+    second: Irvin_LEDGE_Hold_2
+  - first:
+      213: 493417450877887997
+    second: Irvin_LEDGE_Hold_3
+  - first:
+      213: 8081178991337834270
+    second: Irvin_LEDGE_Hold_4
+  - first:
+      213: 7078152870225838715
+    second: Irvin_LEDGE_Hold_5
+  - first:
+      213: 5194403947182212957
+    second: Irvin_LEDGE_Hold_6
+  - first:
+      213: -7139303318469375794
+    second: Irvin_LEDGE_Hold_7
+  - first:
+      213: 9069313795480272066
+    second: Irvin_LEDGE_Hold_8
+  - first:
+      213: -5574940533752754274
+    second: Irvin_LEDGE_Hold_9
+  - first:
+      213: 3873869423711605053
+    second: Irvin_LEDGE_Hold_10
+  - first:
+      213: -3187632228616333774
+    second: Irvin_LEDGE_Hold_11
+  - first:
+      213: 431169628710381632
+    second: Irvin_LEDGE_Hold_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 17
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c394278eb21c100800000000000000
+      internalID: 126430541892893836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 17
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec63fd2d55628730800000000000000
+      internalID: 3999870869935713517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 17
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47c1179d9313c4d0800000000000000
+      internalID: -3115624949644933301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 17
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df52e8dae88f8d600800000000000000
+      internalID: 493417450877887997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1
+        width: 17
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e178a090a7d162070800000000000000
+      internalID: 8081178991337834270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 17
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7209b7a886aa3260800000000000000
+      internalID: 7078152870225838715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1
+        width: 18
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ceab6eda361840800000000000000
+      internalID: 5194403947182212957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 19
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec88dde15791cec90800000000000000
+      internalID: -7139303318469375794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 19
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccb62088dcacdd70800000000000000
+      internalID: 9069313795480272066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 19
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f8db13f15d1a2b0800000000000000
+      internalID: -5574940533752754274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 18
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d39a57bfb2c530800000000000000
+      internalID: 3873869423711605053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 17
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2369cba706143c3d0800000000000000
+      internalID: -3187632228616333774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Hold_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 17
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048283d2e72dbf500800000000000000
+      internalID: 431169628710381632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

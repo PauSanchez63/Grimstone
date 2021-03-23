@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 74d55173ab6710641b08ed7652df848f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5992136319149651829
+    second: Irvin_INTERACTION_Kick_0
+  - first:
+      213: 6599516486888106580
+    second: Irvin_INTERACTION_Kick_1
+  - first:
+      213: -435610517096871289
+    second: Irvin_INTERACTION_Kick_2
+  - first:
+      213: -8710366481060412275
+    second: Irvin_INTERACTION_Kick_3
+  - first:
+      213: 2388939972981784676
+    second: Irvin_INTERACTION_Kick_4
+  - first:
+      213: 8515099712142270131
+    second: Irvin_INTERACTION_Kick_5
+  - first:
+      213: 7456228991104890177
+    second: Irvin_INTERACTION_Kick_6
+  - first:
+      213: -3425218757508892597
+    second: Irvin_INTERACTION_Kick_7
+  - first:
+      213: -7799719932990926190
+    second: Irvin_INTERACTION_Kick_8
+  - first:
+      213: -3063677156045187548
+    second: Irvin_INTERACTION_Kick_9
+  - first:
+      213: 6571572110222276551
+    second: Irvin_INTERACTION_Kick_10
+  - first:
+      213: -5588673068010286849
+    second: Irvin_INTERACTION_Kick_11
+  - first:
+      213: -2349812421044692880
+    second: Irvin_INTERACTION_Kick_12
+  - first:
+      213: -8192145551071571487
+    second: Irvin_INTERACTION_Kick_13
+  - first:
+      213: -1274160892156050922
+    second: Irvin_INTERACTION_Kick_14
+  - first:
+      213: -6474278439029669004
+    second: Irvin_INTERACTION_Kick_15
+  - first:
+      213: -5287848165519497284
+    second: Irvin_INTERACTION_Kick_16
+  - first:
+      213: -5988681801394762323
+    second: Irvin_INTERACTION_Kick_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 18
+        height: 28
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b1ac0c38582350800000000000000
+      internalID: 5992136319149651829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 18
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aac427741369b50800000000000000
+      internalID: 6599516486888106580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 18
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a440cea8664f9f0800000000000000
+      internalID: -435610517096871289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 19
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84cce0c5df8e1780800000000000000
+      internalID: -8710366481060412275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 18
+        height: 26
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4608f4f8f38372120800000000000000
+      internalID: 2388939972981784676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 18
+        height: 25
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be5541c216bb2670800000000000000
+      internalID: 8515099712142270131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 16
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145b6ca33c8d97760800000000000000
+      internalID: 7456228991104890177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 13
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b487da800bd2770d0800000000000000
+      internalID: -3425218757508892597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 27
+        height: 28
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292da8eab04d1c390800000000000000
+      internalID: -7799719932990926190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 27
+        height: 28
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426927fcbd1ab75d0800000000000000
+      internalID: -3063677156045187548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 27
+        height: 28
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7b9ad340ae23b50800000000000000
+      internalID: 6571572110222276551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 22
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff05477647b0172b0800000000000000
+      internalID: -5588673068010286849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 19
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07894da8d0ac36fd0800000000000000
+      internalID: -2349812421044692880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_13
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 18
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e115107607af4e80800000000000000
+      internalID: -8192145551071571487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_14
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 18
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612085c5b65415ee0800000000000000
+      internalID: -1274160892156050922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_15
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 17
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4738aa8df0eb626a0800000000000000
+      internalID: -6474278439029669004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_16
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 15
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb762041c1acd96b0800000000000000
+      internalID: -5287848165519497284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_INTERACTION_Kick_17
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 19
+        height: 29
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadc40b81ade3eca0800000000000000
+      internalID: -5988681801394762323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

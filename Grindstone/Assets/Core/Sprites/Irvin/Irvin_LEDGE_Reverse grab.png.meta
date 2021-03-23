@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: b93c473429c81734ab3dba50892f59bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3101933279000588281
+    second: Irvin_LEDGE_Reverse grab_0
+  - first:
+      213: 1348502348908720420
+    second: Irvin_LEDGE_Reverse grab_1
+  - first:
+      213: 4551678107146064951
+    second: Irvin_LEDGE_Reverse grab_2
+  - first:
+      213: -2814504678474775875
+    second: Irvin_LEDGE_Reverse grab_3
+  - first:
+      213: 6127619058211258388
+    second: Irvin_LEDGE_Reverse grab_4
+  - first:
+      213: -8808578269532188675
+    second: Irvin_LEDGE_Reverse grab_5
+  - first:
+      213: 2163685214442794465
+    second: Irvin_LEDGE_Reverse grab_6
+  - first:
+      213: -7187742505605481267
+    second: Irvin_LEDGE_Reverse grab_7
+  - first:
+      213: -16206371881700853
+    second: Irvin_LEDGE_Reverse grab_8
+  - first:
+      213: 6648508555712862577
+    second: Irvin_LEDGE_Reverse grab_9
+  - first:
+      213: -5621302920573564059
+    second: Irvin_LEDGE_Reverse grab_10
+  - first:
+      213: -8462500868510812534
+    second: Irvin_LEDGE_Reverse grab_11
+  - first:
+      213: -6206776483935192422
+    second: Irvin_LEDGE_Reverse grab_12
+  - first:
+      213: 4902587408601789512
+    second: Irvin_LEDGE_Reverse grab_13
+  - first:
+      213: -7331234628657394457
+    second: Irvin_LEDGE_Reverse grab_14
+  - first:
+      213: -4151073980529089934
+    second: Irvin_LEDGE_Reverse grab_15
+  - first:
+      213: 9081882477927525292
+    second: Irvin_LEDGE_Reverse grab_16
+  - first:
+      213: -7860858412025775612
+    second: Irvin_LEDGE_Reverse grab_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 17
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffeacbe1e74c0b20800000000000000
+      internalID: 3101933279000588281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 17
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421fb7dddb7d6b210800000000000000
+      internalID: 1348502348908720420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 17
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7341d546f1fca2f30800000000000000
+      internalID: 4551678107146064951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 17
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db206d428eed0f8d0800000000000000
+      internalID: -2814504678474775875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 17
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4108893611da90550800000000000000
+      internalID: 6127619058211258388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 17
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff0f44dbb4a1c580800000000000000
+      internalID: -8808578269532188675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 17
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda0a42d34f60e10800000000000000
+      internalID: 2163685214442794465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 17
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb8600642004c90800000000000000
+      internalID: -7187742505605481267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 18
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02b4e0046c66cff0800000000000000
+      internalID: -16206371881700853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 17
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179196d5e4f344c50800000000000000
+      internalID: 6648508555712862577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 17
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bc854d6ce1df1b0800000000000000
+      internalID: -5621302920573564059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 17
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a867afcdb482f8a80800000000000000
+      internalID: -8462500868510812534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1
+        width: 17
+        height: 30
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a7bca3ca91dd9a0800000000000000
+      internalID: -6206776483935192422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1
+        width: 17
+        height: 30
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844330ae54d790440800000000000000
+      internalID: 4902587408601789512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_14
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1
+        width: 17
+        height: 30
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec45d1a2f8324a90800000000000000
+      internalID: -7331234628657394457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1
+        width: 17
+        height: 30
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2726232453c6466c0800000000000000
+      internalID: -4151073980529089934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_16
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1
+        width: 17
+        height: 30
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe6bceef3590e70800000000000000
+      internalID: 9081882477927525292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_LEDGE_Reverse grab_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1
+        width: 17
+        height: 30
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aff814cee98e290800000000000000
+      internalID: -7860858412025775612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
