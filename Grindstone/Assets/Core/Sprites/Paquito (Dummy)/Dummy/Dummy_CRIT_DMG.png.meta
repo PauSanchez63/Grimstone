@@ -1,0 +1,578 @@
+fileFormatVersion: 2
+guid: 6432d2049edc74c4a9883425adb3e50a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6794648826036981668
+    second: Dummy_CRIT_DMG_0
+  - first:
+      213: 8079862756008349316
+    second: Dummy_CRIT_DMG_1
+  - first:
+      213: 3710568891457563076
+    second: Dummy_CRIT_DMG_2
+  - first:
+      213: -6810042321545521822
+    second: Dummy_CRIT_DMG_3
+  - first:
+      213: -495863859132488520
+    second: Dummy_CRIT_DMG_4
+  - first:
+      213: -7993117835487902593
+    second: Dummy_CRIT_DMG_5
+  - first:
+      213: 2456557759628873534
+    second: Dummy_CRIT_DMG_6
+  - first:
+      213: 9120596855011307012
+    second: Dummy_CRIT_DMG_7
+  - first:
+      213: -1889116715761869150
+    second: Dummy_CRIT_DMG_8
+  - first:
+      213: 4922166773107180223
+    second: Dummy_CRIT_DMG_9
+  - first:
+      213: -850261183623352446
+    second: Dummy_CRIT_DMG_10
+  - first:
+      213: 6948422123281021102
+    second: Dummy_CRIT_DMG_11
+  - first:
+      213: -1372998125063553356
+    second: Dummy_CRIT_DMG_12
+  - first:
+      213: -1575786049550321216
+    second: Dummy_CRIT_DMG_13
+  - first:
+      213: 1582225890276426760
+    second: Dummy_CRIT_DMG_14
+  - first:
+      213: -9086694670058323332
+    second: Dummy_CRIT_DMG_15
+  - first:
+      213: 4387288510462803922
+    second: Dummy_CRIT_DMG_16
+  - first:
+      213: -8983294872281131685
+    second: Dummy_CRIT_DMG_17
+  - first:
+      213: -8668104074997534120
+    second: Dummy_CRIT_DMG_18
+  - first:
+      213: 2151371557251899525
+    second: Dummy_CRIT_DMG_19
+  - first:
+      213: -2656271793192755063
+    second: Dummy_CRIT_DMG_20
+  - first:
+      213: 5002950255571225962
+    second: Dummy_CRIT_DMG_21
+  - first:
+      213: 4907040621417555234
+    second: Dummy_CRIT_DMG_0
+  - first:
+      213: 1574197521994155795
+    second: Dummy_CRIT_DMG_1
+  - first:
+      213: -7742218742196660396
+    second: Dummy_CRIT_DMG_5
+  - first:
+      213: 1857659982467243430
+    second: Dummy_CRIT_DMG_6
+  - first:
+      213: 6732455886780572801
+    second: Dummy_CRIT_DMG_7
+  - first:
+      213: -1803807177272634845
+    second: Dummy_CRIT_DMG_9
+  - first:
+      213: 4274444196834444098
+    second: Dummy_CRIT_DMG_12
+  - first:
+      213: -7074844635479998954
+    second: Dummy_CRIT_DMG_13
+  - first:
+      213: -4951773584089694263
+    second: Dummy_CRIT_DMG_14
+  - first:
+      213: 6075173049683698228
+    second: Dummy_CRIT_DMG_15
+  - first:
+      213: -6547337177986150062
+    second: Dummy_CRIT_DMG_16
+  - first:
+      213: 2445098668052913841
+    second: Dummy_CRIT_DMG_17
+  - first:
+      213: 4353870236716895300
+    second: Dummy_CRIT_DMG_18
+  - first:
+      213: -7158887698825633345
+    second: Dummy_CRIT_DMG_19
+  - first:
+      213: 8177202500325760397
+    second: Dummy_CRIT_DMG_20
+  - first:
+      213: -5058057721487588284
+    second: Dummy_CRIT_DMG_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2256102527f491440800000000000000
+      internalID: 4907040621417555234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31703c84e4ca8d510800000000000000
+      internalID: 1574197521994155795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4571ff1f21d1e8490800000000000000
+      internalID: -7742218742196660396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad1b6869ebb7c910800000000000000
+      internalID: 1857659982467243430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842b8d75fc7e6d50800000000000000
+      internalID: 6732455886780572801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 36
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3225d53ede697f6e0800000000000000
+      internalID: -1803807177272634845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 44
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430c8c9950e15b30800000000000000
+      internalID: 4274444196834444098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 45
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ef225c94a11dd90800000000000000
+      internalID: -7074844635479998954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 46
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfbb203924c74bb0800000000000000
+      internalID: -4951773584089694263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_15
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 46
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4326c6773b95f4450800000000000000
+      internalID: 6075173049683698228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 46
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2515d61a68f2325a0800000000000000
+      internalID: -6547337177986150062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 46
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be131ea84cbee120800000000000000
+      internalID: 2445098668052913841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_18
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 46
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c08a999ed0c6c30800000000000000
+      internalID: 4353870236716895300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 46
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1a59c319586ac90800000000000000
+      internalID: -7158887698825633345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_20
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 46
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d5a5079524b7170800000000000000
+      internalID: 8177202500325760397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_DMG_21
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 46
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4448f411d4b2ec9b0800000000000000
+      internalID: -5058057721487588284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
