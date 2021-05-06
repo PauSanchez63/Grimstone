@@ -1,0 +1,803 @@
+fileFormatVersion: 2
+guid: c8d76db62c8e28647ae6a53d0e1b6170
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 520160280983257436
+    second: Dummy_CRIT_Particle_0
+  - first:
+      213: -6743915105783569463
+    second: Dummy_CRIT_Particle_1
+  - first:
+      213: 7430467329971352200
+    second: Dummy_CRIT_Particle_2
+  - first:
+      213: 39148943110482881
+    second: Dummy_CRIT_Particle_3
+  - first:
+      213: -97823702149353996
+    second: Dummy_CRIT_Particle_4
+  - first:
+      213: -6220350927381329340
+    second: Dummy_CRIT_Particle_5
+  - first:
+      213: 1366514995154730689
+    second: Dummy_CRIT_Particle_6
+  - first:
+      213: -4913817881993219891
+    second: Dummy_CRIT_Particle_7
+  - first:
+      213: -1657479610918242579
+    second: Dummy_CRIT_Particle_8
+  - first:
+      213: -6921967076661614937
+    second: Dummy_CRIT_Particle_9
+  - first:
+      213: -7741562648407978509
+    second: Dummy_CRIT_Particle_10
+  - first:
+      213: -7292690707117096606
+    second: Dummy_CRIT_Particle_11
+  - first:
+      213: 5762962417093612694
+    second: Dummy_CRIT_Particle_12
+  - first:
+      213: -2987986039729507989
+    second: Dummy_CRIT_Particle_13
+  - first:
+      213: -6868206794341560249
+    second: Dummy_CRIT_Particle_14
+  - first:
+      213: -4882941571679419678
+    second: Dummy_CRIT_Particle_15
+  - first:
+      213: -2741948027857590010
+    second: Dummy_CRIT_Particle_16
+  - first:
+      213: 308775398827323771
+    second: Dummy_CRIT_Particle_17
+  - first:
+      213: -254381644907925429
+    second: Dummy_CRIT_Particle_18
+  - first:
+      213: 3880181934503730458
+    second: Dummy_CRIT_Particle_19
+  - first:
+      213: -1521526014189790384
+    second: Dummy_CRIT_Particle_20
+  - first:
+      213: -4978401347195227369
+    second: Dummy_CRIT_Particle_21
+  - first:
+      213: -15653017126270102
+    second: Dummy_CRIT_Particle_22
+  - first:
+      213: -6647801489328996588
+    second: Dummy_CRIT_Particle_23
+  - first:
+      213: -1603035923668362397
+    second: Dummy_CRIT_Particle_24
+  - first:
+      213: -5097196216321032776
+    second: Dummy_CRIT_Particle_25
+  - first:
+      213: 3154105717749390893
+    second: Dummy_CRIT_Particle_26
+  - first:
+      213: 8138465796293726506
+    second: Dummy_CRIT_Particle_27
+  - first:
+      213: 4590804228874469083
+    second: Dummy_CRIT_Particle_28
+  - first:
+      213: 3070922675290746504
+    second: Dummy_CRIT_Particle_0
+  - first:
+      213: 1691999114297272358
+    second: Dummy_CRIT_Particle_1
+  - first:
+      213: 4794658379121475859
+    second: Dummy_CRIT_Particle_2
+  - first:
+      213: 6945952643800246443
+    second: Dummy_CRIT_Particle_4
+  - first:
+      213: 2099239283058386130
+    second: Dummy_CRIT_Particle_5
+  - first:
+      213: -4560492001813491693
+    second: Dummy_CRIT_Particle_6
+  - first:
+      213: 4042410744243896319
+    second: Dummy_CRIT_Particle_7
+  - first:
+      213: 8412950417949209314
+    second: Dummy_CRIT_Particle_8
+  - first:
+      213: 173428410377587317
+    second: Dummy_CRIT_Particle_9
+  - first:
+      213: -1355268291480533357
+    second: Dummy_CRIT_Particle_11
+  - first:
+      213: 4104160209375689735
+    second: Dummy_CRIT_Particle_12
+  - first:
+      213: -7971708164351136488
+    second: Dummy_CRIT_Particle_13
+  - first:
+      213: 2696369385913628989
+    second: Dummy_CRIT_Particle_14
+  - first:
+      213: 1072686760514628522
+    second: Dummy_CRIT_Particle_16
+  - first:
+      213: -5294818655548722622
+    second: Dummy_CRIT_Particle_17
+  - first:
+      213: -8509757134895693657
+    second: Dummy_CRIT_Particle_18
+  - first:
+      213: 4149659342124073630
+    second: Dummy_CRIT_Particle_19
+  - first:
+      213: -6670969036142702421
+    second: Dummy_CRIT_Particle_20
+  - first:
+      213: -675211135654368552
+    second: Dummy_CRIT_Particle_21
+  - first:
+      213: -3435839915260941626
+    second: Dummy_CRIT_Particle_22
+  - first:
+      213: 7219608447777565078
+    second: Dummy_CRIT_Particle_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ea56917eb1e9a20800000000000000
+      internalID: 3070922675290746504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628e6f7da303b7710800000000000000
+      internalID: 1691999114297272358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311c2e2846c0a8240800000000000000
+      internalID: 4794658379121475859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbae6f91c51b8000800000000000000
+      internalID: 39148943110482881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba82668d02bf46060800000000000000
+      internalID: 6945952643800246443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ad35710ff12d10800000000000000
+      internalID: 2099239283058386130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31095e6dfa0e5b0c0800000000000000
+      internalID: -4560492001813491693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff31ee7727891830800000000000000
+      internalID: 4042410744243896319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e236d6d4ddc0c470800000000000000
+      internalID: 8412950417949209314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a448a6834286200800000000000000
+      internalID: 173428410377587317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc53fa9c1709490800000000000000
+      internalID: -7741562648407978509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396c3fe5bae113de0800000000000000
+      internalID: -1355268291480533357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c712537f7e4f830800000000000000
+      internalID: 4104160209375689735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de4c219adce5190800000000000000
+      internalID: -7971708164351136488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39be96abad6b6520800000000000000
+      internalID: 2696369385913628989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28f01f28e4c3cb0800000000000000
+      internalID: -4882941571679419678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab2db3ece2f2ee00800000000000000
+      internalID: 1072686760514628522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24238e56c760586b0800000000000000
+      internalID: -5294818655548722622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_18
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a042b1f8f447e980800000000000000
+      internalID: -8509757134895693657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92cf229f2d869930800000000000000
+      internalID: 4149659342124073630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_20
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba095158105fb63a0800000000000000
+      internalID: -6670969036142702421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daeeeeac0b21a6f0800000000000000
+      internalID: -675211135654368552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_22
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca63c90dc17150d0800000000000000
+      internalID: -3435839915260941626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f7b3b54c34eb3a0800000000000000
+      internalID: -6647801489328996588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_CRIT_Particle_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699e033d1a3313460800000000000000
+      internalID: 7219608447777565078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

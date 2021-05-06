@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: d0af0a07bfbaed542a700c13f85eff62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6776788375642088930
+    second: Irvin_COMBAT_SlashFinisher_0
+  - first:
+      213: -6053931767615578901
+    second: Irvin_COMBAT_SlashFinisher_1
+  - first:
+      213: -7959338996950852995
+    second: Irvin_COMBAT_SlashFinisher_2
+  - first:
+      213: 2622666140292678960
+    second: Irvin_COMBAT_SlashFinisher_3
+  - first:
+      213: 912144120043422166
+    second: Irvin_COMBAT_SlashFinisher_4
+  - first:
+      213: -2871541430604860697
+    second: Irvin_COMBAT_SlashFinisher_5
+  - first:
+      213: -4155527211681430568
+    second: Irvin_COMBAT_SlashFinisher_6
+  - first:
+      213: -1594529537461181165
+    second: Irvin_COMBAT_SlashFinisher_7
+  - first:
+      213: -3143709910811290365
+    second: Irvin_COMBAT_SlashFinisher_8
+  - first:
+      213: -2944764546008500702
+    second: Irvin_COMBAT_SlashFinisher_9
+  - first:
+      213: 834551384336385529
+    second: Irvin_COMBAT_SlashFinisher_10
+  - first:
+      213: 6500383135331988545
+    second: Irvin_COMBAT_SlashFinisher_11
+  - first:
+      213: 7944680908445237763
+    second: Irvin_COMBAT_SlashFinisher_12
+  - first:
+      213: 6746093798301008813
+    second: Irvin_COMBAT_SlashFinisher_13
+  - first:
+      213: -5453501850594218135
+    second: Irvin_COMBAT_SlashFinisher_14
+  - first:
+      213: 6481874774285942107
+    second: Irvin_COMBAT_SlashFinisher_15
+  - first:
+      213: -5518206994274101141
+    second: Irvin_COMBAT_SlashFinisher_16
+  - first:
+      213: 2105989232691755159
+    second: Irvin_COMBAT_SlashFinisher_17
+  - first:
+      213: 3163952798117478531
+    second: Irvin_COMBAT_SlashFinisher_18
+  - first:
+      213: 6787632105107519191
+    second: Irvin_COMBAT_SlashFinisher_19
+  - first:
+      213: -3164887858696296243
+    second: Irvin_COMBAT_SlashFinisher_0
+  - first:
+      213: -5866253502601236243
+    second: Irvin_COMBAT_SlashFinisher_1
+  - first:
+      213: -8292144158675954713
+    second: Irvin_COMBAT_SlashFinisher_2
+  - first:
+      213: 361819555226888431
+    second: Irvin_COMBAT_SlashFinisher_3
+  - first:
+      213: 2708473891535034174
+    second: Irvin_COMBAT_SlashFinisher_4
+  - first:
+      213: -3283385964735459492
+    second: Irvin_COMBAT_SlashFinisher_5
+  - first:
+      213: -7346050903372899840
+    second: Irvin_COMBAT_SlashFinisher_6
+  - first:
+      213: 3219212936175470251
+    second: Irvin_COMBAT_SlashFinisher_7
+  - first:
+      213: 829865564396614238
+    second: Irvin_COMBAT_SlashFinisher_8
+  - first:
+      213: 8250470203390060845
+    second: Irvin_COMBAT_SlashFinisher_9
+  - first:
+      213: 7683888291122768512
+    second: Irvin_COMBAT_SlashFinisher_10
+  - first:
+      213: -8789950224340351922
+    second: Irvin_COMBAT_SlashFinisher_11
+  - first:
+      213: 1632290737932086241
+    second: Irvin_COMBAT_SlashFinisher_12
+  - first:
+      213: -3658116748011299276
+    second: Irvin_COMBAT_SlashFinisher_13
+  - first:
+      213: 6421062995552698418
+    second: Irvin_COMBAT_SlashFinisher_14
+  - first:
+      213: -1470319452281142576
+    second: Irvin_COMBAT_SlashFinisher_15
+  - first:
+      213: 4995115058405138530
+    second: Irvin_COMBAT_SlashFinisher_16
+  - first:
+      213: 4579578386680646124
+    second: Irvin_COMBAT_SlashFinisher_17
+  - first:
+      213: -3290117140808021402
+    second: Irvin_COMBAT_SlashFinisher_18
+  - first:
+      213: -1663737041180676851
+    second: Irvin_COMBAT_SlashFinisher_19
+  - first:
+      213: 2251910006164205484
+    second: Irvin_COMBAT_SlashFinisher_20
+  - first:
+      213: 4825185087479593031
+    second: Irvin_COMBAT_SlashFinisher_21
+  - first:
+      213: 5543152214197020537
+    second: Irvin_COMBAT_SlashFinisher_22
+  - first:
+      213: 6683956437094779091
+    second: Irvin_COMBAT_SlashFinisher_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8e574c24f0414d0800000000000000
+      internalID: -3164887858696296243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0ff072581e69ea0800000000000000
+      internalID: -5866253502601236243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e31ac342d26cec80800000000000000
+      internalID: -8292144158675954713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8a61ee7f0750500800000000000000
+      internalID: 361819555226888431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379d5c77ae669520800000000000000
+      internalID: 2708473891535034174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f80777cd11f62d0800000000000000
+      internalID: -3283385964735459492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a558adf959d0a90800000000000000
+      internalID: -7346050903372899840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6c41dfb11fcac20800000000000000
+      internalID: 3219212936175470251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 0
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5270318556448b00800000000000000
+      internalID: 829865564396614238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d296207efee8f7270800000000000000
+      internalID: 8250470203390060845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ae72690b7a2aa60800000000000000
+      internalID: 7683888291122768512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4404d497d2d30680800000000000000
+      internalID: -8789950224340351922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_12
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 0
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb2a9427cf07a610800000000000000
+      internalID: 1632290737932086241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e11eff232cb3dc0800000000000000
+      internalID: -3658116748011299276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_14
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 0
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230035236c23c1950800000000000000
+      internalID: 6421062995552698418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_15
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 0
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d28f6c8f30689be0800000000000000
+      internalID: -1470319452281142576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_16
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260617c2ea6325540800000000000000
+      internalID: 4995115058405138530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_17
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9082f674eed8f30800000000000000
+      internalID: 4579578386680646124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_18
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac6b864e72752d0800000000000000
+      internalID: -3290117140808021402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irvin_COMBAT_SlashFinisher_19
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 0
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d24c4d9f739e8e0800000000000000
+      internalID: -1663737041180676851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

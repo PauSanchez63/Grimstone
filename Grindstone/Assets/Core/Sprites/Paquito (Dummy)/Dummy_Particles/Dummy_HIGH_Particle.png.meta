@@ -1,0 +1,803 @@
+fileFormatVersion: 2
+guid: 67dfc7cd3ad434e4d96ddfdd481e54d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7011714082571289641
+    second: Dummy_HIGH_Particle_0
+  - first:
+      213: -4006138447870362400
+    second: Dummy_HIGH_Particle_1
+  - first:
+      213: 1927014839196959350
+    second: Dummy_HIGH_Particle_2
+  - first:
+      213: 2688297631944908993
+    second: Dummy_HIGH_Particle_3
+  - first:
+      213: -2688889844600633774
+    second: Dummy_HIGH_Particle_4
+  - first:
+      213: -617606849768397972
+    second: Dummy_HIGH_Particle_5
+  - first:
+      213: 5882009119521654987
+    second: Dummy_HIGH_Particle_6
+  - first:
+      213: -7375235786175585716
+    second: Dummy_HIGH_Particle_7
+  - first:
+      213: 3526450080337442052
+    second: Dummy_HIGH_Particle_8
+  - first:
+      213: -1037545332833103175
+    second: Dummy_HIGH_Particle_9
+  - first:
+      213: -3142069022442741889
+    second: Dummy_HIGH_Particle_10
+  - first:
+      213: -8931061885648861495
+    second: Dummy_HIGH_Particle_11
+  - first:
+      213: 6063522179883995025
+    second: Dummy_HIGH_Particle_12
+  - first:
+      213: -5542492790822129945
+    second: Dummy_HIGH_Particle_13
+  - first:
+      213: -469229673838294586
+    second: Dummy_HIGH_Particle_14
+  - first:
+      213: -4101427199254900799
+    second: Dummy_HIGH_Particle_15
+  - first:
+      213: 4802241338979838703
+    second: Dummy_HIGH_Particle_16
+  - first:
+      213: 1802420939236446135
+    second: Dummy_HIGH_Particle_17
+  - first:
+      213: -1245926291655372047
+    second: Dummy_HIGH_Particle_18
+  - first:
+      213: 5222380865030730117
+    second: Dummy_HIGH_Particle_19
+  - first:
+      213: 5110969661857138631
+    second: Dummy_HIGH_Particle_20
+  - first:
+      213: -3041042669855651683
+    second: Dummy_HIGH_Particle_21
+  - first:
+      213: -4312653667310096094
+    second: Dummy_HIGH_Particle_22
+  - first:
+      213: -5671120900722365325
+    second: Dummy_HIGH_Particle_23
+  - first:
+      213: -7824515178223877373
+    second: Dummy_HIGH_Particle_24
+  - first:
+      213: 7342725894410401651
+    second: Dummy_HIGH_Particle_0
+  - first:
+      213: 2264004495037950217
+    second: Dummy_HIGH_Particle_1
+  - first:
+      213: 5350690932313882517
+    second: Dummy_HIGH_Particle_2
+  - first:
+      213: -7701965752442725875
+    second: Dummy_HIGH_Particle_3
+  - first:
+      213: -5064596429023130568
+    second: Dummy_HIGH_Particle_4
+  - first:
+      213: 2648830147832058545
+    second: Dummy_HIGH_Particle_5
+  - first:
+      213: -514853202429419451
+    second: Dummy_HIGH_Particle_6
+  - first:
+      213: 2472490432493451981
+    second: Dummy_HIGH_Particle_7
+  - first:
+      213: -8030819525734683588
+    second: Dummy_HIGH_Particle_8
+  - first:
+      213: -820725544722764161
+    second: Dummy_HIGH_Particle_9
+  - first:
+      213: 3695229451495501871
+    second: Dummy_HIGH_Particle_10
+  - first:
+      213: -6983587894529810843
+    second: Dummy_HIGH_Particle_11
+  - first:
+      213: -1020684523425372803
+    second: Dummy_HIGH_Particle_12
+  - first:
+      213: 6615588686813735698
+    second: Dummy_HIGH_Particle_13
+  - first:
+      213: -1652912378785283886
+    second: Dummy_HIGH_Particle_14
+  - first:
+      213: 7929044955517457540
+    second: Dummy_HIGH_Particle_15
+  - first:
+      213: -8581884754461280036
+    second: Dummy_HIGH_Particle_16
+  - first:
+      213: -1138940712129895185
+    second: Dummy_HIGH_Particle_17
+  - first:
+      213: 581428861491065943
+    second: Dummy_HIGH_Particle_18
+  - first:
+      213: 5458278821605281446
+    second: Dummy_HIGH_Particle_19
+  - first:
+      213: 1517507821484132249
+    second: Dummy_HIGH_Particle_20
+  - first:
+      213: 1172748855687289192
+    second: Dummy_HIGH_Particle_21
+  - first:
+      213: 8790614596630679036
+    second: Dummy_HIGH_Particle_22
+  - first:
+      213: -6744687232746666211
+    second: Dummy_HIGH_Particle_23
+  - first:
+      213: -4696905579426757821
+    second: Dummy_HIGH_Particle_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377f46b2c4a96e560800000000000000
+      internalID: 7342725894410401651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909ef90d71c5b6f10800000000000000
+      internalID: 2264004495037950217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ff873cd09714a40800000000000000
+      internalID: 5350690932313882517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a5d6574fe1d1590800000000000000
+      internalID: -7701965752442725875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c4d559160f6b9b0800000000000000
+      internalID: -5064596429023130568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b210ef3cf882c420800000000000000
+      internalID: 2648830147832058545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540e8bd7dbfdad8f0800000000000000
+      internalID: -514853202429419451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaf253d2fc005220800000000000000
+      internalID: 2472490432493451981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c2051c03ccc8090800000000000000
+      internalID: -8030819525734683588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ee5b827723c94f0800000000000000
+      internalID: -820725544722764161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2073f3ab97184330800000000000000
+      internalID: 3695229451495501871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e15d08fcf451f90800000000000000
+      internalID: -6983587894529810843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75ed7175dcc5d1f0800000000000000
+      internalID: -1020684523425372803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b20a91cda4fcb50800000000000000
+      internalID: 6615588686813735698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d048a1f2fcaf09e0800000000000000
+      internalID: -1652912378785283886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48498bd8060a90e60800000000000000
+      internalID: 7929044955517457540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8befad84507e880800000000000000
+      internalID: -8581884754461280036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46449e47ba130f0800000000000000
+      internalID: -1138940712129895185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_18
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b55f0876a11800800000000000000
+      internalID: 581428861491065943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae02d64ba3bfbb40800000000000000
+      internalID: 5458278821605281446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_20
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9974073d2554f0510800000000000000
+      internalID: 1517507821484132249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8699cf9eed0764010800000000000000
+      internalID: 1172748855687289192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_22
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd0985a6698ef970800000000000000
+      internalID: 8790614596630679036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17c50b52be0662a0800000000000000
+      internalID: -6744687232746666211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy_HIGH_Particle_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343c7b2c24d31deb0800000000000000
+      internalID: -4696905579426757821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
