@@ -41,6 +41,45 @@ TextureImporter:
   - first:
       213: 5779637472882885667
     second: Irvin_DODGE_12
+  - first:
+      213: -1549663980180676916
+    second: Irvin_DODGE_0
+  - first:
+      213: -5455829117551643399
+    second: Irvin_DODGE_1
+  - first:
+      213: 9043879563205357311
+    second: Irvin_DODGE_2
+  - first:
+      213: -5927759680171144600
+    second: Irvin_DODGE_3
+  - first:
+      213: -2337325779451857663
+    second: Irvin_DODGE_4
+  - first:
+      213: 7334914935873995491
+    second: Irvin_DODGE_5
+  - first:
+      213: -15636275333984631
+    second: Irvin_DODGE_6
+  - first:
+      213: -7401356219268886673
+    second: Irvin_DODGE_7
+  - first:
+      213: -4003280883229430180
+    second: Irvin_DODGE_8
+  - first:
+      213: -542402706539543766
+    second: Irvin_DODGE_9
+  - first:
+      213: -4606437709526044438
+    second: Irvin_DODGE_10
+  - first:
+      213: 896617076048308528
+    second: Irvin_DODGE_11
+  - first:
+      213: -3230282392239015075
+    second: Irvin_DODGE_12
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -86,7 +125,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -153,19 +192,19 @@ TextureImporter:
       name: Irvin_DODGE_0
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 0
-        width: 31
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 313125d7333929650800000000000000
-      internalID: 6238210283216704275
+      spriteID: ccedc1c02dc7e7ae0800000000000000
+      internalID: -1549663980180676916
       vertices: []
       indices: 
       edges: []
@@ -174,19 +213,19 @@ TextureImporter:
       name: Irvin_DODGE_1
       rect:
         serializedVersion: 2
-        x: 56
+        x: 50
         y: 0
-        width: 32
-        height: 27
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecbc99ba1635aee20800000000000000
-      internalID: 3380606149250894798
+      spriteID: 9f4f915e2500944b0800000000000000
+      internalID: -5455829117551643399
       vertices: []
       indices: 
       edges: []
@@ -195,19 +234,19 @@ TextureImporter:
       name: Irvin_DODGE_2
       rect:
         serializedVersion: 2
-        x: 104
+        x: 100
         y: 0
-        width: 33
-        height: 28
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a39a9c6c75a214b0800000000000000
-      internalID: -5471128643485133912
+      spriteID: ffe2544db80528d70800000000000000
+      internalID: 9043879563205357311
       vertices: []
       indices: 
       edges: []
@@ -216,19 +255,19 @@ TextureImporter:
       name: Irvin_DODGE_3
       rect:
         serializedVersion: 2
-        x: 152
+        x: 150
         y: 0
-        width: 29
-        height: 25
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df444563be46227f0800000000000000
-      internalID: -638837235741604611
+      spriteID: 86a048d3afd5cbda0800000000000000
+      internalID: -5927759680171144600
       vertices: []
       indices: 
       edges: []
@@ -237,19 +276,19 @@ TextureImporter:
       name: Irvin_DODGE_4
       rect:
         serializedVersion: 2
-        x: 199
+        x: 200
         y: 0
-        width: 24
-        height: 23
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 917a9edab81881080800000000000000
-      internalID: -9216474200495511783
+      spriteID: 105b8675696209fd0800000000000000
+      internalID: -2337325779451857663
       vertices: []
       indices: 
       edges: []
@@ -258,19 +297,19 @@ TextureImporter:
       name: Irvin_DODGE_5
       rect:
         serializedVersion: 2
-        x: 246
+        x: 250
         y: 0
-        width: 21
-        height: 20
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9c0f8b9b10f80590800000000000000
-      internalID: -7707646760879977315
+      spriteID: 3e20a7aa54adac560800000000000000
+      internalID: 7334914935873995491
       vertices: []
       indices: 
       edges: []
@@ -279,19 +318,19 @@ TextureImporter:
       name: Irvin_DODGE_6
       rect:
         serializedVersion: 2
-        x: 294
+        x: 300
         y: 0
-        width: 18
-        height: 13
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 549c11444eace52f0800000000000000
-      internalID: -982124586976818875
+      spriteID: 98e8b13f3e278cff0800000000000000
+      internalID: -15636275333984631
       vertices: []
       indices: 
       edges: []
@@ -300,19 +339,19 @@ TextureImporter:
       name: Irvin_DODGE_7
       rect:
         serializedVersion: 2
-        x: 341
+        x: 350
         y: 0
-        width: 16
-        height: 13
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66b9315c0520f6e40800000000000000
-      internalID: 5651738603300297574
+      spriteID: f6f895e8bb9194990800000000000000
+      internalID: -7401356219268886673
       vertices: []
       indices: 
       edges: []
@@ -321,19 +360,19 @@ TextureImporter:
       name: Irvin_DODGE_8
       rect:
         serializedVersion: 2
-        x: 389
+        x: 400
         y: 0
-        width: 18
-        height: 13
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04db6994e0fa2d7d0800000000000000
-      internalID: -2895059134546789056
+      spriteID: c5e6ffa3f3d7178c0800000000000000
+      internalID: -4003280883229430180
       vertices: []
       indices: 
       edges: []
@@ -342,19 +381,19 @@ TextureImporter:
       name: Irvin_DODGE_9
       rect:
         serializedVersion: 2
-        x: 436
+        x: 450
         y: 0
-        width: 23
-        height: 13
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c38f57f13b6ffb7b0800000000000000
-      internalID: -5206171395029600196
+      spriteID: a230087bc9ff878f0800000000000000
+      internalID: -542402706539543766
       vertices: []
       indices: 
       edges: []
@@ -363,19 +402,19 @@ TextureImporter:
       name: Irvin_DODGE_10
       rect:
         serializedVersion: 2
-        x: 484
+        x: 500
         y: 0
-        width: 19
-        height: 15
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0d0100fc5a535b10800000000000000
-      internalID: 1969016817301130511
+      spriteID: ae07cb32f45a210c0800000000000000
+      internalID: -4606437709526044438
       vertices: []
       indices: 
       edges: []
@@ -384,19 +423,19 @@ TextureImporter:
       name: Irvin_DODGE_11
       rect:
         serializedVersion: 2
-        x: 523
+        x: 550
         y: 0
-        width: 25
-        height: 18
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5686213d9ee395aa0800000000000000
-      internalID: -6171832640345053083
+      spriteID: 039a86dea7c617c00800000000000000
+      internalID: 896617076048308528
       vertices: []
       indices: 
       edges: []
@@ -405,19 +444,19 @@ TextureImporter:
       name: Irvin_DODGE_12
       rect:
         serializedVersion: 2
-        x: 572
+        x: 600
         y: 0
-        width: 24
-        height: 25
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32488b5e8a5653050800000000000000
-      internalID: 5779637472882885667
+      spriteID: d5bf46e674bbb23d0800000000000000
+      internalID: -3230282392239015075
       vertices: []
       indices: 
       edges: []

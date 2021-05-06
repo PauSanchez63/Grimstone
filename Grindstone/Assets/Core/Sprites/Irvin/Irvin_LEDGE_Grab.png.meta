@@ -50,6 +50,54 @@ TextureImporter:
   - first:
       213: -6737643893829937177
     second: Irvin_LEDGE_Grab_15
+  - first:
+      213: 2076218058025140047
+    second: Irvin_LEDGE_Grab_0
+  - first:
+      213: 1946273717613913938
+    second: Irvin_LEDGE_Grab_1
+  - first:
+      213: -7284010755726541174
+    second: Irvin_LEDGE_Grab_2
+  - first:
+      213: -6392326270330935458
+    second: Irvin_LEDGE_Grab_3
+  - first:
+      213: -477705232514725877
+    second: Irvin_LEDGE_Grab_4
+  - first:
+      213: 6710474818537267066
+    second: Irvin_LEDGE_Grab_5
+  - first:
+      213: -6460714798136427424
+    second: Irvin_LEDGE_Grab_6
+  - first:
+      213: 8080584102542562097
+    second: Irvin_LEDGE_Grab_7
+  - first:
+      213: 1389069924194781860
+    second: Irvin_LEDGE_Grab_8
+  - first:
+      213: 4937597573148470458
+    second: Irvin_LEDGE_Grab_9
+  - first:
+      213: -423619031955617173
+    second: Irvin_LEDGE_Grab_10
+  - first:
+      213: 3185293539870224853
+    second: Irvin_LEDGE_Grab_11
+  - first:
+      213: 5488326074284223150
+    second: Irvin_LEDGE_Grab_12
+  - first:
+      213: -225733066143364374
+    second: Irvin_LEDGE_Grab_13
+  - first:
+      213: -5119819915485045164
+    second: Irvin_LEDGE_Grab_14
+  - first:
+      213: -4861887114368586451
+    second: Irvin_LEDGE_Grab_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -162,19 +210,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_0
       rect:
         serializedVersion: 2
-        x: 15
+        x: 0
         y: 0
-        width: 19
-        height: 33
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab66e6448d0f1e0b0800000000000000
-      internalID: -5701010841622649158
+      spriteID: f4ff6d0d25530dc10800000000000000
+      internalID: 2076218058025140047
       vertices: []
       indices: 
       edges: []
@@ -185,17 +233,17 @@ TextureImporter:
         serializedVersion: 2
         x: 50
         y: 0
-        width: 19
-        height: 33
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e8147c34dd1daa20800000000000000
-      internalID: 3075146917948430565
+      spriteID: 2576e0662ad820b10800000000000000
+      internalID: 1946273717613913938
       vertices: []
       indices: 
       edges: []
@@ -204,19 +252,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_2
       rect:
         serializedVersion: 2
-        x: 83
+        x: 100
         y: 0
-        width: 21
-        height: 33
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e44630d48832a67b0800000000000000
-      internalID: -5230328948922817458
+      spriteID: a8e7bcc5fcef9ea90800000000000000
+      internalID: -7284010755726541174
       vertices: []
       indices: 
       edges: []
@@ -225,19 +273,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_3
       rect:
         serializedVersion: 2
-        x: 122
+        x: 150
         y: 0
-        width: 17
-        height: 33
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b801c9e7f825d8ac0800000000000000
-      internalID: -3851331330073948021
+      spriteID: e57e6880025e947a0800000000000000
+      internalID: -6392326270330935458
       vertices: []
       indices: 
       edges: []
@@ -246,19 +294,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_4
       rect:
         serializedVersion: 2
-        x: 163
+        x: 200
         y: 0
-        width: 11
-        height: 32
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa261577396d07920800000000000000
-      internalID: 2986122481796997807
+      spriteID: b084d9c3f99de59f0800000000000000
+      internalID: -477705232514725877
       vertices: []
       indices: 
       edges: []
@@ -267,19 +315,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_5
       rect:
         serializedVersion: 2
-        x: 199
+        x: 250
         y: 0
-        width: 10
-        height: 32
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 468aad3c3361089d0800000000000000
-      internalID: -2774192958875195292
+      spriteID: a7f1e193b45602d50800000000000000
+      internalID: 6710474818537267066
       vertices: []
       indices: 
       edges: []
@@ -288,19 +336,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_6
       rect:
         serializedVersion: 2
-        x: 233
+        x: 300
         y: 0
-        width: 11
-        height: 31
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86e9b4c2f8dd024b0800000000000000
-      internalID: -5467126340634567064
+      spriteID: 06cf7f51f1ee656a0800000000000000
+      internalID: -6460714798136427424
       vertices: []
       indices: 
       edges: []
@@ -309,19 +357,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_7
       rect:
         serializedVersion: 2
-        x: 265
+        x: 350
         y: 0
-        width: 14
-        height: 30
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7c6d8e6be5f75550800000000000000
-      internalID: 6149654207718583418
+      spriteID: 133d7b1bd60042070800000000000000
+      internalID: 8080584102542562097
       vertices: []
       indices: 
       edges: []
@@ -330,19 +378,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_8
       rect:
         serializedVersion: 2
-        x: 301
+        x: 400
         y: 0
-        width: 13
-        height: 29
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96cf40b8006eb0fb0800000000000000
-      internalID: -4680394497714750359
+      spriteID: 4aa0fc78cb7f64310800000000000000
+      internalID: 1389069924194781860
       vertices: []
       indices: 
       edges: []
@@ -351,19 +399,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_9
       rect:
         serializedVersion: 2
-        x: 333
+        x: 450
         y: 0
-        width: 16
-        height: 27
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c38ef5867fca74c50800000000000000
-      internalID: 6649473553443842108
+      spriteID: abc685f05ded58440800000000000000
+      internalID: 4937597573148470458
       vertices: []
       indices: 
       edges: []
@@ -372,19 +420,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_10
       rect:
         serializedVersion: 2
-        x: 368
+        x: 500
         y: 0
-        width: 17
-        height: 29
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 805bb63c9ef298da0800000000000000
-      internalID: -5942165552286157560
+      spriteID: b6ac0302cb00f1af0800000000000000
+      internalID: -423619031955617173
       vertices: []
       indices: 
       edges: []
@@ -393,19 +441,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_11
       rect:
         serializedVersion: 2
-        x: 400
+        x: 550
         y: 0
-        width: 20
-        height: 28
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a48d92d4ed972b90800000000000000
-      internalID: -7266665867627363163
+      spriteID: 5d1bf4d199f643c20800000000000000
+      internalID: 3185293539870224853
       vertices: []
       indices: 
       edges: []
@@ -414,19 +462,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_12
       rect:
         serializedVersion: 2
-        x: 435
+        x: 600
         y: 0
-        width: 20
-        height: 29
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2916fe2af8cf495d0800000000000000
-      internalID: -3056540553233604206
+      spriteID: eaaa9357c737a2c40800000000000000
+      internalID: 5488326074284223150
       vertices: []
       indices: 
       edges: []
@@ -435,19 +483,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_13
       rect:
         serializedVersion: 2
-        x: 469
+        x: 650
         y: 0
-        width: 21
-        height: 32
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98ec9340fc7396cc0800000000000000
-      internalID: -3717378655148978551
+      spriteID: aea077ae8f80edcf0800000000000000
+      internalID: -225733066143364374
       vertices: []
       indices: 
       edges: []
@@ -456,19 +504,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_14
       rect:
         serializedVersion: 2
-        x: 504
+        x: 700
         y: 0
-        width: 21
-        height: 31
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 680595e86314cb520800000000000000
-      internalID: 2719119977597194374
+      spriteID: 45e1b8fa9eeb2f8b0800000000000000
+      internalID: -5119819915485045164
       vertices: []
       indices: 
       edges: []
@@ -477,19 +525,19 @@ TextureImporter:
       name: Irvin_LEDGE_Grab_15
       rect:
         serializedVersion: 2
-        x: 543
+        x: 750
         y: 0
-        width: 17
-        height: 32
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e7df2d73941f72a0800000000000000
-      internalID: -6737643893829937177
+      spriteID: d2de20acd6b178cb0800000000000000
+      internalID: -4861887114368586451
       vertices: []
       indices: 
       edges: []

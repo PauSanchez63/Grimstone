@@ -41,6 +41,45 @@ TextureImporter:
   - first:
       213: 1806815389970554335
     second: Irvin_LEDGE_Climb_12
+  - first:
+      213: 5332540272438263685
+    second: Irvin_LEDGE_Climb_0
+  - first:
+      213: -4308958255617939907
+    second: Irvin_LEDGE_Climb_1
+  - first:
+      213: -7598758824099295202
+    second: Irvin_LEDGE_Climb_2
+  - first:
+      213: -8738474443083395199
+    second: Irvin_LEDGE_Climb_3
+  - first:
+      213: 2740834233163461386
+    second: Irvin_LEDGE_Climb_4
+  - first:
+      213: 1699295995249925829
+    second: Irvin_LEDGE_Climb_5
+  - first:
+      213: 643796412447131820
+    second: Irvin_LEDGE_Climb_6
+  - first:
+      213: -4142942474518953993
+    second: Irvin_LEDGE_Climb_7
+  - first:
+      213: 4552709696805353254
+    second: Irvin_LEDGE_Climb_8
+  - first:
+      213: 1576934492746812627
+    second: Irvin_LEDGE_Climb_9
+  - first:
+      213: -1442188825993111685
+    second: Irvin_LEDGE_Climb_10
+  - first:
+      213: -5672661740177480515
+    second: Irvin_LEDGE_Climb_11
+  - first:
+      213: 3357590507790823338
+    second: Irvin_LEDGE_Climb_12
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -153,19 +192,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_0
       rect:
         serializedVersion: 2
-        x: 28
+        x: 0
         y: 0
-        width: 17
-        height: 32
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a78b3c3f324ad3920800000000000000
-      internalID: 2971711803454896250
+      spriteID: 58fb521ff1df00a40800000000000000
+      internalID: 5332540272438263685
       vertices: []
       indices: 
       edges: []
@@ -174,19 +213,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_1
       rect:
         serializedVersion: 2
-        x: 73
+        x: 50
         y: 0
-        width: 17
-        height: 31
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f3b40abc5546e5f0800000000000000
-      internalID: -727818025213578254
+      spriteID: d36e7eddb418334c0800000000000000
+      internalID: -4308958255617939907
       vertices: []
       indices: 
       edges: []
@@ -195,19 +234,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_2
       rect:
         serializedVersion: 2
-        x: 116
+        x: 100
         y: 0
-        width: 19
-        height: 32
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb7c3e9f3cb510e70800000000000000
-      internalID: 9079639221024835519
+      spriteID: e1052b30c19cb8690800000000000000
+      internalID: -7598758824099295202
       vertices: []
       indices: 
       edges: []
@@ -216,19 +255,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_3
       rect:
         serializedVersion: 2
-        x: 161
+        x: 150
         y: 0
-        width: 19
-        height: 33
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d0b734b49d374f60800000000000000
-      internalID: 8018445370444460243
+      spriteID: 18f4f2ddac3bab680800000000000000
+      internalID: -8738474443083395199
       vertices: []
       indices: 
       edges: []
@@ -237,19 +276,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_4
       rect:
         serializedVersion: 2
-        x: 210
+        x: 200
         y: 0
-        width: 15
-        height: 33
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c58e34a0653450e0800000000000000
-      internalID: -2282140421981305408
+      spriteID: a0330f7a636690620800000000000000
+      internalID: 2740834233163461386
       vertices: []
       indices: 
       edges: []
@@ -258,19 +297,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_5
       rect:
         serializedVersion: 2
-        x: 255
+        x: 250
         y: 0
-        width: 15
-        height: 30
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1b03ca1ee5bfea60800000000000000
-      internalID: 7705577521710041882
+      spriteID: 5ce9d1554bc159710800000000000000
+      internalID: 1699295995249925829
       vertices: []
       indices: 
       edges: []
@@ -279,19 +318,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_6
       rect:
         serializedVersion: 2
-        x: 296
+        x: 300
         y: 0
-        width: 19
-        height: 27
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b28d4b5ae998ebd0800000000000000
-      internalID: -2600659552973258055
+      spriteID: ca805971d693fe800800000000000000
+      internalID: 643796412447131820
       vertices: []
       indices: 
       edges: []
@@ -300,19 +339,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_7
       rect:
         serializedVersion: 2
-        x: 340
+        x: 350
         y: 0
-        width: 20
-        height: 22
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1969d6c5fbfcf780800000000000000
-      internalID: -8647760151436498661
+      spriteID: 7ff7b6905cf4186c0800000000000000
+      internalID: -4142942474518953993
       vertices: []
       indices: 
       edges: []
@@ -321,19 +360,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_8
       rect:
         serializedVersion: 2
-        x: 382
+        x: 400
         y: 0
-        width: 23
-        height: 19
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d02f4f6e665e796d0800000000000000
-      internalID: -2983663997985426931
+      spriteID: 6273f8319597e2f30800000000000000
+      internalID: 4552709696805353254
       vertices: []
       indices: 
       edges: []
@@ -342,19 +381,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_9
       rect:
         serializedVersion: 2
-        x: 426
+        x: 450
         y: 0
-        width: 24
-        height: 18
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e102c603cc727850800000000000000
-      internalID: 6373293599756517856
+      spriteID: 3dc0c32f09562e510800000000000000
+      internalID: 1576934492746812627
       vertices: []
       indices: 
       edges: []
@@ -363,19 +402,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_10
       rect:
         serializedVersion: 2
-        x: 475
+        x: 500
         y: 0
-        width: 20
-        height: 18
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db2d250e74488fc50800000000000000
-      internalID: 6699249889954681533
+      spriteID: b7794af57e05cfbe0800000000000000
+      internalID: -1442188825993111685
       vertices: []
       indices: 
       edges: []
@@ -384,19 +423,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_11
       rect:
         serializedVersion: 2
-        x: 521
+        x: 550
         y: 0
-        width: 19
-        height: 21
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6532999c83dc90f0800000000000000
-      internalID: -1108778807414606481
+      spriteID: db4a5cdc338a641b0800000000000000
+      internalID: -5672661740177480515
       vertices: []
       indices: 
       edges: []
@@ -405,19 +444,19 @@ TextureImporter:
       name: Irvin_LEDGE_Climb_12
       rect:
         serializedVersion: 2
-        x: 567
+        x: 600
         y: 0
-        width: 18
-        height: 25
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdd57e53609131910800000000000000
-      internalID: 1806815389970554335
+      spriteID: aaf681e07ce889e20800000000000000
+      internalID: 3357590507790823338
       vertices: []
       indices: 
       edges: []

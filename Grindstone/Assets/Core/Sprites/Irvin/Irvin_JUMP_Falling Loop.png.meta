@@ -20,6 +20,24 @@ TextureImporter:
   - first:
       213: -7258615675598030383
     second: Irvin_JUMP_Falling Loop_5
+  - first:
+      213: -2994072312078937145
+    second: Irvin_JUMP_Falling Loop_0
+  - first:
+      213: -6036841710622881686
+    second: Irvin_JUMP_Falling Loop_1
+  - first:
+      213: 5265741739710714447
+    second: Irvin_JUMP_Falling Loop_2
+  - first:
+      213: 3939401738215782578
+    second: Irvin_JUMP_Falling Loop_3
+  - first:
+      213: 6341465240053580666
+    second: Irvin_JUMP_Falling Loop_4
+  - first:
+      213: -4997327080964083850
+    second: Irvin_JUMP_Falling Loop_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -132,19 +150,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling Loop_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 1
-        width: 17
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aaf1f6f4b34f4c600800000000000000
-      internalID: 487783195235786666
+      spriteID: 7c3d3be681be276d0800000000000000
+      internalID: -2994072312078937145
       vertices: []
       indices: 
       edges: []
@@ -153,19 +171,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling Loop_1
       rect:
         serializedVersion: 2
-        x: 45
-        y: 1
-        width: 19
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 50
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d98a98f118163160800000000000000
-      internalID: 7004812735885773267
+      spriteID: a68cf01e274d83ca0800000000000000
+      internalID: -6036841710622881686
       vertices: []
       indices: 
       edges: []
@@ -174,19 +192,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling Loop_2
       rect:
         serializedVersion: 2
-        x: 82
-        y: 1
-        width: 17
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 100
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d38adb20eed7d1540800000000000000
-      internalID: 4980275224143308861
+      spriteID: f429762963ca31940800000000000000
+      internalID: 5265741739710714447
       vertices: []
       indices: 
       edges: []
@@ -195,19 +213,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling Loop_3
       rect:
         serializedVersion: 2
-        x: 118
-        y: 1
-        width: 18
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 150
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7a96be9ea410ad70800000000000000
-      internalID: 9052257991234329214
+      spriteID: 2b878e152019ba630800000000000000
+      internalID: 3939401738215782578
       vertices: []
       indices: 
       edges: []
@@ -216,19 +234,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling Loop_4
       rect:
         serializedVersion: 2
-        x: 153
-        y: 1
-        width: 18
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 200
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02de19ce60cb7bfd0800000000000000
-      internalID: -2326183944588759776
+      spriteID: a7381ec8909610850800000000000000
+      internalID: 6341465240053580666
       vertices: []
       indices: 
       edges: []
@@ -237,19 +255,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling Loop_5
       rect:
         serializedVersion: 2
-        x: 190
-        y: 1
-        width: 18
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 250
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d9b5e63087344b90800000000000000
-      internalID: -7258615675598030383
+      spriteID: 67f22b03f7de5aab0800000000000000
+      internalID: -4997327080964083850
       vertices: []
       indices: 
       edges: []

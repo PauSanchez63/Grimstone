@@ -38,6 +38,42 @@ TextureImporter:
   - first:
       213: 8938936855042588934
     second: Irvin_RUNNING_11
+  - first:
+      213: 2398104444465904001
+    second: Irvin_RUNNING_0
+  - first:
+      213: 8507181642146296688
+    second: Irvin_RUNNING_1
+  - first:
+      213: -6299492062580306916
+    second: Irvin_RUNNING_2
+  - first:
+      213: -429556172632802211
+    second: Irvin_RUNNING_3
+  - first:
+      213: -8340446886011668460
+    second: Irvin_RUNNING_4
+  - first:
+      213: 9000071155687641541
+    second: Irvin_RUNNING_5
+  - first:
+      213: 9213520220036047934
+    second: Irvin_RUNNING_6
+  - first:
+      213: -5061332420516169133
+    second: Irvin_RUNNING_7
+  - first:
+      213: -5775109978069390317
+    second: Irvin_RUNNING_8
+  - first:
+      213: -2105494405606874645
+    second: Irvin_RUNNING_9
+  - first:
+      213: 624277535633322486
+    second: Irvin_RUNNING_10
+  - first:
+      213: 1556653593490295315
+    second: Irvin_RUNNING_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -150,19 +186,19 @@ TextureImporter:
       name: Irvin_RUNNING_0
       rect:
         serializedVersion: 2
-        x: 11
+        x: 0
         y: 0
-        width: 25
-        height: 27
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 089876cf811cb3b10800000000000000
-      internalID: 1962374375708002688
+      spriteID: 189fcaa5947c74120800000000000000
+      internalID: 2398104444465904001
       vertices: []
       indices: 
       edges: []
@@ -171,19 +207,19 @@ TextureImporter:
       name: Irvin_RUNNING_1
       rect:
         serializedVersion: 2
-        x: 59
+        x: 50
         y: 0
-        width: 27
-        height: 25
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ff4f877fc075d0c0800000000000000
-      internalID: -4551607812021596176
+      spriteID: 073badb61a49f0670800000000000000
+      internalID: 8507181642146296688
       vertices: []
       indices: 
       edges: []
@@ -192,19 +228,19 @@ TextureImporter:
       name: Irvin_RUNNING_2
       rect:
         serializedVersion: 2
-        x: 112
+        x: 100
         y: 0
-        width: 22
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abfc020c52e6f22b0800000000000000
-      internalID: -5607141902636757062
+      spriteID: c1c02806855b398a0800000000000000
+      internalID: -6299492062580306916
       vertices: []
       indices: 
       edges: []
@@ -213,19 +249,19 @@ TextureImporter:
       name: Irvin_RUNNING_3
       rect:
         serializedVersion: 2
-        x: 166
+        x: 150
         y: 0
-        width: 18
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bc9fc5e8f5b366d0800000000000000
-      internalID: -2998352846286512976
+      spriteID: d5c3527dfe8e90af0800000000000000
+      internalID: -429556172632802211
       vertices: []
       indices: 
       edges: []
@@ -234,19 +270,19 @@ TextureImporter:
       name: Irvin_RUNNING_4
       rect:
         serializedVersion: 2
-        x: 212
+        x: 200
         y: 0
-        width: 25
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4d65748e66285d80800000000000000
-      internalID: -8261811260300628658
+      spriteID: 418f24b2fb7c04c80800000000000000
+      internalID: -8340446886011668460
       vertices: []
       indices: 
       edges: []
@@ -255,19 +291,19 @@ TextureImporter:
       name: Irvin_RUNNING_5
       rect:
         serializedVersion: 2
-        x: 265
+        x: 250
         y: 0
-        width: 23
-        height: 27
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7592e469608679cf0800000000000000
-      internalID: -245613277167605417
+      spriteID: 5c1500c180da6ec70800000000000000
+      internalID: 9000071155687641541
       vertices: []
       indices: 
       edges: []
@@ -276,19 +312,19 @@ TextureImporter:
       name: Irvin_RUNNING_6
       rect:
         serializedVersion: 2
-        x: 314
+        x: 300
         y: 0
-        width: 23
-        height: 28
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cd7f6a8efda663e0800000000000000
-      internalID: -2060768470719562297
+      spriteID: e34a02623dffcdf70800000000000000
+      internalID: 9213520220036047934
       vertices: []
       indices: 
       edges: []
@@ -297,19 +333,19 @@ TextureImporter:
       name: Irvin_RUNNING_7
       rect:
         serializedVersion: 2
-        x: 364
+        x: 350
         y: 0
-        width: 23
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 310dea817a0e15430800000000000000
-      internalID: 3770041371364085779
+      spriteID: 35a37f8caf882c9b0800000000000000
+      internalID: -5061332420516169133
       vertices: []
       indices: 
       edges: []
@@ -318,19 +354,19 @@ TextureImporter:
       name: Irvin_RUNNING_8
       rect:
         serializedVersion: 2
-        x: 410
+        x: 400
         y: 0
-        width: 24
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c00157f711a832710800000000000000
-      internalID: 1667328094814670860
+      spriteID: 31c2c52a210badfa0800000000000000
+      internalID: -5775109978069390317
       vertices: []
       indices: 
       edges: []
@@ -339,19 +375,19 @@ TextureImporter:
       name: Irvin_RUNNING_9
       rect:
         serializedVersion: 2
-        x: 461
+        x: 450
         y: 0
-        width: 23
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8594864bf68e7d860800000000000000
-      internalID: 7554762466403043672
+      spriteID: be1ea355ef7c7c2e0800000000000000
+      internalID: -2105494405606874645
       vertices: []
       indices: 
       edges: []
@@ -360,19 +396,19 @@ TextureImporter:
       name: Irvin_RUNNING_10
       rect:
         serializedVersion: 2
-        x: 514
+        x: 500
         y: 0
-        width: 22
-        height: 27
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cb8862bc26918800800000000000000
-      internalID: 612936143015021508
+      spriteID: 6f13ea07c11e9a800800000000000000
+      internalID: 624277535633322486
       vertices: []
       indices: 
       edges: []
@@ -381,19 +417,19 @@ TextureImporter:
       name: Irvin_RUNNING_11
       rect:
         serializedVersion: 2
-        x: 558
+        x: 550
         y: 0
-        width: 28
-        height: 28
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 601067a85bb7d0c70800000000000000
-      internalID: 8938936855042588934
+      spriteID: 31a035e12385a9510800000000000000
+      internalID: 1556653593490295315
       vertices: []
       indices: 
       edges: []

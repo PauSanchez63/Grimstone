@@ -50,6 +50,36 @@ TextureImporter:
   - first:
       213: -7194091188651708670
     second: Irvin_JUMP_Falling_15
+  - first:
+      213: -3504935209450771735
+    second: Irvin_JUMP_Falling_0
+  - first:
+      213: 7659287267052567214
+    second: Irvin_JUMP_Falling_1
+  - first:
+      213: 6579462125581809755
+    second: Irvin_JUMP_Falling_2
+  - first:
+      213: -4197551182243396725
+    second: Irvin_JUMP_Falling_3
+  - first:
+      213: -2963257961451198232
+    second: Irvin_JUMP_Falling_4
+  - first:
+      213: 3248268953672889948
+    second: Irvin_JUMP_Falling_5
+  - first:
+      213: -3141519849153733943
+    second: Irvin_JUMP_Falling_6
+  - first:
+      213: 6806333852854016335
+    second: Irvin_JUMP_Falling_7
+  - first:
+      213: -2197459694436874242
+    second: Irvin_JUMP_Falling_8
+  - first:
+      213: -8662015445375015584
+    second: Irvin_JUMP_Falling_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -162,19 +192,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 3
-        width: 25
-        height: 25
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b3d29ce44bdab410800000000000000
-      internalID: 1493747315500045237
+      spriteID: 9ea6de73ff7fb5fc0800000000000000
+      internalID: -3504935209450771735
       vertices: []
       indices: 
       edges: []
@@ -183,19 +213,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 3
-        width: 27
-        height: 23
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 50
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9de4ca7377d039a00800000000000000
-      internalID: 761967567642054361
+      spriteID: eaa375150314b4a60800000000000000
+      internalID: 7659287267052567214
       vertices: []
       indices: 
       edges: []
@@ -204,19 +234,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling_2
       rect:
         serializedVersion: 2
-        x: 74
-        y: 3
-        width: 27
-        height: 22
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 100
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 682cd07048fd5b9e0800000000000000
-      internalID: -1606131933940694394
+      spriteID: b58b07891f1fe4b50800000000000000
+      internalID: 6579462125581809755
       vertices: []
       indices: 
       edges: []
@@ -225,19 +255,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling_3
       rect:
         serializedVersion: 2
-        x: 111
-        y: 4
-        width: 24
-        height: 20
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 150
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a151080bb76416cc0800000000000000
-      internalID: -3719614320175213286
+      spriteID: b838cd7707d4fb5c0800000000000000
+      internalID: -4197551182243396725
       vertices: []
       indices: 
       edges: []
@@ -246,19 +276,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling_4
       rect:
         serializedVersion: 2
-        x: 146
-        y: 3
-        width: 26
-        height: 21
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 200
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cc1e79e1a506fd60800000000000000
-      internalID: 7923526787370196169
+      spriteID: 8e86ad5859460e6d0800000000000000
+      internalID: -2963257961451198232
       vertices: []
       indices: 
       edges: []
@@ -267,19 +297,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling_5
       rect:
         serializedVersion: 2
-        x: 183
-        y: 2
-        width: 25
-        height: 23
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 250
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81f0361e2855f4480800000000000000
-      internalID: -8912811116927447272
+      spriteID: c563a9e376b241d20800000000000000
+      internalID: 3248268953672889948
       vertices: []
       indices: 
       edges: []
@@ -288,19 +318,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling_6
       rect:
         serializedVersion: 2
-        x: 220
-        y: 2
-        width: 23
-        height: 23
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 300
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d503f6e8e4226d330800000000000000
-      internalID: 3735210661742850141
+      spriteID: 9ca5a5877541764d0800000000000000
+      internalID: -3141519849153733943
       vertices: []
       indices: 
       edges: []
@@ -309,19 +339,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling_7
       rect:
         serializedVersion: 2
-        x: 257
-        y: 2
-        width: 23
-        height: 23
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 350
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 725cf0c759035f430800000000000000
-      internalID: 3816009677856032039
+      spriteID: f495412e394f47e50800000000000000
+      internalID: 6806333852854016335
       vertices: []
       indices: 
       edges: []
@@ -330,19 +360,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling_8
       rect:
         serializedVersion: 2
-        x: 295
-        y: 1
-        width: 20
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 400
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a01179f55a4cec60800000000000000
-      internalID: 7848729983717544102
+      spriteID: ef70ad0fc0e0181e0800000000000000
+      internalID: -2197459694436874242
       vertices: []
       indices: 
       edges: []
@@ -351,145 +381,19 @@ TextureImporter:
       name: Irvin_JUMP_Falling_9
       rect:
         serializedVersion: 2
-        x: 332
-        y: 1
-        width: 20
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        x: 450
+        y: 0
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48826dede902071a0800000000000000
-      internalID: -6813910369496061820
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Irvin_JUMP_Falling_10
-      rect:
-        serializedVersion: 2
-        x: 370
-        y: 1
-        width: 17
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e5db62a035040bdf0800000000000000
-      internalID: -166562460815934114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Irvin_JUMP_Falling_11
-      rect:
-        serializedVersion: 2
-        x: 405
-        y: 1
-        width: 19
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 010122111e8a65870800000000000000
-      internalID: 8671303817157021712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Irvin_JUMP_Falling_12
-      rect:
-        serializedVersion: 2
-        x: 442
-        y: 1
-        width: 17
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b508b711087e95570800000000000000
-      internalID: 8456044312599953499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Irvin_JUMP_Falling_13
-      rect:
-        serializedVersion: 2
-        x: 478
-        y: 1
-        width: 18
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8ada6ea5bbfe2090800000000000000
-      internalID: -8057225925585347954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Irvin_JUMP_Falling_14
-      rect:
-        serializedVersion: 2
-        x: 513
-        y: 1
-        width: 18
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf13f5ed8f1135d70800000000000000
-      internalID: 9030581438388318715
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Irvin_JUMP_Falling_15
-      rect:
-        serializedVersion: 2
-        x: 550
-        y: 1
-        width: 18
-        height: 26
-      alignment: 8
-      pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20fa5aa0e24792c90800000000000000
-      internalID: -7194091188651708670
+      spriteID: 065a97388d65ac780800000000000000
+      internalID: -8662015445375015584
       vertices: []
       indices: 
       edges: []
