@@ -1,55 +1,28 @@
 fileFormatVersion: 2
-guid: 354bd79afbec5914e830e349bcb4fbe3
+guid: 9773a3444e59da249983295c19d49ff2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 621411466955737164
-    second: Dummy_LOW_DMG_0
+      213: -6050923467245794577
+    second: Dummy_DAMAGE_Low_0
   - first:
-      213: 1620666227065268282
-    second: Dummy_LOW_DMG_1
+      213: 5260809914371322071
+    second: Dummy_DAMAGE_Low_1
   - first:
-      213: 2249654834747685439
-    second: Dummy_LOW_DMG_2
+      213: -2251656271927515407
+    second: Dummy_DAMAGE_Low_2
   - first:
-      213: 4430314043503604057
-    second: Dummy_LOW_DMG_3
+      213: 8370973984233974220
+    second: Dummy_DAMAGE_Low_3
   - first:
-      213: 9187490586492749861
-    second: Dummy_LOW_DMG_4
+      213: 6631845052959613979
+    second: Dummy_DAMAGE_Low_4
   - first:
-      213: 2541208331662278863
-    second: Dummy_LOW_DMG_5
+      213: 6037994237259245057
+    second: Dummy_DAMAGE_Low_5
   - first:
-      213: -5354263885351002334
-    second: Dummy_LOW_DMG_6
-  - first:
-      213: -436147662014859330
-    second: Dummy_LOW_DMG_7
-  - first:
-      213: 457267595865357415
-    second: Dummy_LOW_DMG_0
-  - first:
-      213: -8531082438662563964
-    second: Dummy_LOW_DMG_1
-  - first:
-      213: 7476055966546911967
-    second: Dummy_LOW_DMG_2
-  - first:
-      213: -7441766416080394763
-    second: Dummy_LOW_DMG_3
-  - first:
-      213: 2806222206253544756
-    second: Dummy_LOW_DMG_4
-  - first:
-      213: -8075373478475543883
-    second: Dummy_LOW_DMG_5
-  - first:
-      213: 7703096860246202202
-    second: Dummy_LOW_DMG_6
-  - first:
-      213: -76408043557622727
-    second: Dummy_LOW_DMG_7
+      213: 4738097951132141282
+    second: Dummy_DAMAGE_Low_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -159,169 +132,148 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dummy_LOW_DMG_0
+      name: Dummy_DAMAGE_Low_0
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 0
-        width: 24
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76cf9daa47a885600800000000000000
-      internalID: 457267595865357415
+      spriteID: fea4dbb6a2dc60ca0800000000000000
+      internalID: -6050923467245794577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dummy_LOW_DMG_1
+      name: Dummy_DAMAGE_Low_1
       rect:
         serializedVersion: 2
-        x: 56
+        x: 51
         y: 0
-        width: 19
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 487d1fdb8b18b9980800000000000000
-      internalID: -8531082438662563964
+      spriteID: 7d0b4f08eb6220940800000000000000
+      internalID: 5260809914371322071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dummy_LOW_DMG_2
+      name: Dummy_DAMAGE_Low_2
       rect:
         serializedVersion: 2
-        x: 101
+        x: 102
         y: 0
-        width: 17
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd2e7feaa4940c760800000000000000
-      internalID: 7476055966546911967
+      spriteID: 1f6ea7bec8280c0e0800000000000000
+      internalID: -2251656271927515407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dummy_LOW_DMG_3
+      name: Dummy_DAMAGE_Low_3
       rect:
         serializedVersion: 2
-        x: 144
+        x: 153
         y: 0
-        width: 15
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f5a81c6fd889b890800000000000000
-      internalID: -7441766416080394763
+      spriteID: cc96d42cc7cab2470800000000000000
+      internalID: 8370973984233974220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dummy_LOW_DMG_4
+      name: Dummy_DAMAGE_Low_4
       rect:
         serializedVersion: 2
-        x: 186
+        x: 204
         y: 0
-        width: 16
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4353e848a34b1f620800000000000000
-      internalID: 2806222206253544756
+      spriteID: b14e61b40fb090c50800000000000000
+      internalID: 6631845052959613979
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dummy_LOW_DMG_5
+      name: Dummy_DAMAGE_Low_5
       rect:
         serializedVersion: 2
-        x: 222
+        x: 255
         y: 0
-        width: 24
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bacad24b928eef80800000000000000
-      internalID: -8075373478475543883
+      spriteID: 10661b3a4c34bc350800000000000000
+      internalID: 6037994237259245057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dummy_LOW_DMG_6
+      name: Dummy_DAMAGE_Low_6
       rect:
         serializedVersion: 2
-        x: 266
+        x: 306
         y: 0
-        width: 24
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a57d66918c5e6ea60800000000000000
-      internalID: 7703096860246202202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dummy_LOW_DMG_7
-      rect:
-        serializedVersion: 2
-        x: 309
-        y: 0
-        width: 24
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 93ce3c90a4b80fef0800000000000000
-      internalID: -76408043557622727
+      spriteID: 2e6cc38abfa11c140800000000000000
+      internalID: 4738097951132141282
       vertices: []
       indices: 
       edges: []
